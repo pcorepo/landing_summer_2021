@@ -1,0 +1,198 @@
+/* LUISS SERIF */
+
+/* Webfont: LuissSerif-Bold */
+
+@font-face {
+    font-family: 'LuissSerif';
+    src: url('LuissSerif-Bold.eot'); /* IE9 Compat Modes */
+    src: url('LuissSerif-Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('LuissSerif-Bold.woff') format('woff'), /* Modern Browsers */
+         url('LuissSerif-Bold.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('LuissSerif-Bold.svg#LuissSerif-Bold') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: bold;
+    text-rendering: optimizeLegibility;
+}
+
+/* Webfont: LuissSerif-BoldItalic */
+
+@font-face {
+    font-family: 'LuissSerif';
+    src: url('LuissSerif-BoldItalic.eot'); /* IE9 Compat Modes */
+    src: url('LuissSerif-BoldItalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('LuissSerif-BoldItalic.woff') format('woff'), /* Modern Browsers */
+         url('LuissSerif-BoldItalic.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('LuissSerif-BoldItalic.svg#LuissSerif-BoldItalic') format('svg'); /* Legacy iOS */
+    font-style: italic;
+    font-weight: bold;
+    text-rendering: optimizeLegibility;
+}
+
+/* Webfont: LuissSerif-Italic */
+
+@font-face {
+    font-family: 'LuissSerif';
+    src: url('LuissSerif-Italic.eot'); /* IE9 Compat Modes */
+    src: url('LuissSerif-Italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('LuissSerif-Italic.woff') format('woff'), /* Modern Browsers */
+         url('LuissSerif-Italic.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('LuissSerif-Italic.svg#LuissSerif-Italic') format('svg'); /* Legacy iOS */
+    font-style: italic;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
+/* Webfont: LuissSerif-Regular */
+
+@font-face {
+    font-family: 'LuissSerif';
+    src: url('LuissSerif-Regular.eot'); /* IE9 Compat Modes */
+    src: url('LuissSerif-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('LuissSerif-Regular.woff') format('woff'), /* Modern Browsers */
+         url('LuissSerif-Regular.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('LuissSerif-Regular.svg#LuissSerif-Regular') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
+
+
+/* LUISS SANS */
+
+/* Webfont: LuissSans-Regular */
+
+@font-face {
+	font-family: 'LuissSans-Regular';
+	src: url('fonts/LuissSans-Regular.eot');
+	src: url('fonts/LuissSans-Regular.woff') format('woff'),url('fonts/LuissSans-Regular.ttf') format('truetype'), url('fonts/LuissSans-Regular.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+    text-rendering: optimizeLegibility;
+}
+
+/* Webfont: LuissSans-Italic */
+
+@font-face {
+	font-family: 'LuissSans-Italic';
+	src: url('fonts/LuissSans-italic.eot');
+	src: url('fonts/LuissSans-italic.woff') format('woff'), url('fonts/LuissSans-italic.ttf') format('truetype'), url('fonts/LuissSans-italic.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+    text-rendering: optimizeLegibility;
+}
+
+/* Webfont: LuissSans-Bold */
+
+@font-face {
+	font-family: 'LuissSans-Bold';
+	src: url('fonts/LuissSans-Bold.eot');
+	src: url('fonts/LuissSans-Bold.woff') format('woff'), url('fonts/LuissSans-Bold.ttf') format('truetype'), url('fonts/LuissSans-Bold.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+    text-rendering: optimizeLegibility;
+}
+
+/* Webfont: LuissSans-BoldItalic */
+
+@font-face {
+	font-family: 'LuissSans-BoldItalic';
+	src: url('fonts/LuissSans-BoldItalic.eot');
+	src: url('fonts/LuissSans-BoldItalic.woff') format('woff'), url('fonts/LuissSans-BoldItalic.ttf') format('truetype'), url('fonts/LuissSans-BoldItalic.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+    text-rendering: optimizeLegibility;
+}
+
+/* Webfont: LuissSans-ThinSans */
+
+@font-face {
+	font-family: 'LuissSans-ThinSans';
+	src: url('fonts/LuissSans-ThinSans.eot');
+	src: url('fonts/LuissSans-ThinSans.woff') format('woff'), url('fonts/LuissSans-ThinSans.ttf') format('truetype'), url('fonts/LuissSans-ThinSans.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+    text-rendering: optimizeLegibility;
+}
+
+/* Webfont: LuissSans-ThinItalic */
+
+@font-face {
+	font-family: 'LuissSans-ThinItalic';
+	src: url('fonts/LuissSans-ThinItalic.eot');
+	src: url('fonts/LuissSans-ThinItalic.woff') format('woff'), url('fonts/LuissSans-ThinItalic.ttf') format('truetype'), url('fonts/LuissSans-ThinItalic.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+    text-rendering: optimizeLegibility;
+}
+
+-----------------
+
+/* LUISS SANS */
+
+/* Webfont: LuissSans-Regular */
+
+@font-face {
+	font-family: 'LuissSans-Regular';
+	src: url('fonts/LuissSans-Regular.eot');
+	src: url('fonts/LuissSans-Regular.woff') format('woff'), url('fonts/LuissSans-Regular.ttf') format('truetype'), url('fonts/LuissSans-Regular.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+    text-rendering: optimizeLegibility;
+}
+
+/* Webfont: LuissSans-Italic */
+
+@font-face {
+	font-family: 'LuissSans-Italic';
+	src: url('fonts/LuissSans-italic.eot');
+	src: url('fonts/LuissSans-italic.woff') format('woff'), url('fonts/LuissSans-italic.ttf') format('truetype'), url('fonts/LuissSans-italic.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+    text-rendering: optimizeLegibility;
+}
+
+/* Webfont: LuissSans-Bold */
+
+@font-face {
+	font-family: 'LuissSans-Bold';
+	src: url('fonts/LuissSans-Bold.eot');
+	src: url('fonts/LuissSans-Bold.woff') format('woff'), url('fonts/LuissSans-Bold.ttf') format('truetype'), url('fonts/LuissSans-Bold.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+    text-rendering: optimizeLegibility;
+}
+
+/* Webfont: LuissSans-BoldItalic */
+
+@font-face {
+	font-family: 'LuissSans-BoldItalic';
+	src: url('fonts/LuissSans-BoldItalic.eot');
+	src: url('fonts/LuissSans-BoldItalic.woff') format('woff'), url('fonts/LuissSans-BoldItalic.ttf') format('truetype'), url('fonts/LuissSans-BoldItalic.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+    text-rendering: optimizeLegibility;
+}
+
+/* Webfont: LuissSans-ThinSans */
+
+@font-face {
+	font-family: 'LuissSans-ThinSans';
+	src: url('fonts/LuissSans-ThinSans.eot');
+	src: url('fonts/LuissSans-ThinSans.woff') format('woff'), url('fonts/LuissSans-ThinSans.ttf') format('truetype'), url('fonts/LuissSans-ThinSans.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+    text-rendering: optimizeLegibility;
+}
+
+/* Webfont: LuissSans-ThinItalic */
+
+@font-face {
+	font-family: 'LuissSans-ThinItalic';
+	src: url('fonts/LuissSans-ThinItalic.eot');
+	src: url('fonts/LuissSans-ThinItalic.woff') format('woff'), url('fonts/LuissSans-ThinItalic.ttf') format('truetype'), url('fonts/LuissSans-ThinItalic.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+    text-rendering: optimizeLegibility;
+}
+

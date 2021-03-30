@@ -1,0 +1,12 @@
+/* Webfont: LuissSerif-Italic */@font-face {
+    font-family: 'LuissSerif';
+    src: url('LuissSerif-Italic.eot'); /* IE9 Compat Modes */
+    src: url('LuissSerif-Italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('LuissSerif-Italic.woff') format('woff'), /* Modern Browsers */
+         url('LuissSerif-Italic.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('LuissSerif-Italic.svg#LuissSerif-Italic') format('svg'); /* Legacy iOS */
+    font-style: italic;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

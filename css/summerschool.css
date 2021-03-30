@@ -1,0 +1,1150 @@
+/* LUISS SERIF */
+
+
+/* Webfont: LuissSerif-Bold */
+
+@font-face {
+    font-family: 'LuissSerif';
+    src: url('../fonts/LuissFont/LuissSerif-Bold.eot');
+    /* IE9 Compat Modes */
+    src: url('../fonts/LuissFont/LuissSerif-Bold.eot%3F') format('embedded-opentype'), /* IE6-IE8 */
+    url('../fonts/LuissFont/LuissSerif-Bold.woff') format('woff'), /* Modern Browsers */
+    url('../fonts/LuissFont/LuissSerif-Bold.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('../fonts/LuissFont/LuissSerif-Bold.svg') format('svg');
+    /* Legacy iOS */
+    font-style: normal;
+    font-weight: bold;
+    text-rendering: optimizeLegibility;
+}
+
+
+/* Webfont: LuissSerif-BoldItalic */
+
+@font-face {
+    font-family: 'LuissSerif';
+    src: url('../fonts/LuissFont/LuissSerif-BoldItalic.eot');
+    /* IE9 Compat Modes */
+    src: url('../fonts/LuissFont/LuissSerif-BoldItalic.eot%3F') format('embedded-opentype'), /* IE6-IE8 */
+    url('../fonts/LuissFont/LuissSerif-BoldItalic.woff') format('woff'), /* Modern Browsers */
+    url('../fonts/LuissFont/LuissSerif-BoldItalic.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('../fonts/LuissFont/LuissSerif-BoldItalic.svg') format('svg');
+    /* Legacy iOS */
+    font-style: italic;
+    font-weight: bold;
+    text-rendering: optimizeLegibility;
+}
+
+
+/* Webfont: LuissSerif-Italic */
+
+@font-face {
+    font-family: 'LuissSerif';
+    src: url('../fonts/LuissFont/LuissSerif-Italic.eot');
+    /* IE9 Compat Modes */
+    src: url('../fonts/LuissFont/LuissSerif-Italic.eot%3F') format('embedded-opentype'), /* IE6-IE8 */
+    url('../fonts/LuissFont/LuissSerif-Italic.woff') format('woff'), /* Modern Browsers */
+    url('../fonts/LuissFont/LuissSerif-Italic.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('../fonts/LuissFont/LuissSerif-Italic.svg') format('svg');
+    /* Legacy iOS */
+    font-style: italic;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
+
+/* Webfont: LuissSerif-Regular */
+
+@font-face {
+    font-family: 'LuissSerif';
+    src: url('../fonts/LuissFont/LuissSerif-Regular.eot');
+    /* IE9 Compat Modes */
+    src: url('../fonts/LuissFont/LuissSerif-Regular.eot%3F') format('embedded-opentype'), /* IE6-IE8 */
+    url('../fonts/LuissFont/LuissSerif-Regular.woff') format('woff'), /* Modern Browsers */
+    url('../fonts/LuissFont/LuissSerif-Regular.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('../fonts/LuissFont/LuissSerif-Regular.svg') format('svg');
+    /* Legacy iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
+
+/* LUISS SANS */
+
+
+/* Webfont: LuissSans-Regular */
+
+@font-face {
+    font-family: 'LuissSans';
+    src: url('../fonts/LuissFont/LuissSans-Regular.eot');
+    src: url('../fonts/LuissFont/LuissSans-Regular.woff') format('woff'), url('../fonts/LuissFont/LuissSans-Regular.ttf') format('truetype'), url('../fonts/LuissFont/LuissSans-Regular.svg') format('svg'), url('../fonts/LuissFont/LuissSans-Regular.otf') format('otf');
+    font-weight: normal;
+    font-style: normal;
+    text-rendering: optimizeLegibility;
+}
+
+
+/* Webfont: LuissSans-Italic */
+
+@font-face {
+    font-family: 'LuissSans';
+    src: url('../fonts/LuissFont/LuissSans-italic.eot');
+    src: url('../fonts/LuissFont/LuissSans-italic.woff') format('woff'), url('../fonts/LuissFont/LuissSans-italic.ttf') format('truetype'), url('../fonts/LuissFont/LuissSans-italic.svg') format('svg'), url('../fonts/LuissFont/LuissSans-italic.otf') format('otf');
+    font-weight: normal;
+    font-style: italic;
+    text-rendering: optimizeLegibility;
+}
+
+
+/* Webfont: LuissSans-Bold */
+
+@font-face {
+    font-family: 'LuissSans';
+    src: url('../fonts/LuissFont/LuissSans-Bold.eot');
+    src: url('../fonts/LuissFont/LuissSans-Bold.woff') format('woff'), url('../fonts/LuissFont/LuissSans-Bold.ttf') format('truetype'), url('../fonts/LuissFont/LuissSans-Bold.svg') format('svg'), url('../fonts/LuissFont/LuissSans-Bold.otf') format('otf');
+    font-weight: bold;
+    font-style: normal;
+    text-rendering: optimizeLegibility;
+}
+
+
+/* Webfont: LuissSans */
+
+@font-face {
+    font-family: 'LuissSans-BoldItalic';
+    src: url('../fonts/LuissFont/LuissSans-BoldItalic.eot');
+    src: url('../fonts/LuissFont/LuissSans-BoldItalic.woff') format('woff'), url('../fonts/LuissFont/LuissSans-BoldItalic.ttf') format('truetype'), url('../fonts/LuissFont/LuissSans-BoldItalic.svg') format('svg'), url('../fonts/LuissFont/LuissSans-BoldItalic.otf') format('otf');
+    font-weight: bold;
+    font-style: italic;
+    text-rendering: optimizeLegibility;
+}
+
+
+/* Webfont: LuissSans-ThinSans */
+
+@font-face {
+    font-family: 'LuissSans';
+    src: url('../fonts/LuissFont/LuissSans-ThinSans.eot');
+    src: url('../fonts/LuissFont/LuissSans-ThinSans.woff') format('woff'), url('../fonts/LuissFont/LuissSans-ThinSans.ttf') format('truetype'), url('../fonts/LuissFont/LuissSans-ThinSans.svg') format('svg'), url('../fonts/LuissFont/LuissSans-ThinSans.otf') format('otf');
+    font-weight: 100;
+    font-style: normal;
+    text-rendering: optimizeLegibility;
+}
+
+
+/* Webfont: LuissSans-ThinItalic */
+
+@font-face {
+    font-family: 'LuissSans';
+    src: url('../fonts/LuissFont/LuissSans-ThinItalic.eot');
+    src: url('../fonts/LuissFont/LuissSans-ThinItalic.woff') format('woff'), url('../fonts/LuissFont/LuissSans-ThinItalic.ttf') format('truetype'), url('../fonts/LuissFont/LuissSans-ThinItalic.svg') format('svg'), url('../fonts/LuissFont/LuissSans-ThinItalic.otf') format('otf');
+    font-weight: 100;
+    font-style: italic;
+    text-rendering: optimizeLegibility;
+}
+
+body,
+html {
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+}
+
+
+/* COLORS */
+
+
+/*
+Writing avio chiaro #00B2A9
+Next Generation blu chiaro #0077C8
+NeWorld avio scuro #007672
+Orientation 3 rosso chiaro #D50032
+Orientation 4 arancio chiaro #EA7600
+
+colori 2021
+Blu Luiss #003A70
+Rosso #D50032 (Orientation 3)
+Arancio #EA7600 (Orientation 4)
+Giallo #EAAA00 (Writing)
+
+*/
+
+:root {
+    --writing: #EAAA00;
+    --nextgen: #0077C8;
+    --neworld: #007672;
+    --orientation-3: #D50032;
+    --orientation-4: #EA7600;
+    --coding-42: #000000;
+}
+
+.coding-42 {color: var(--coding-42)}
+
+button,
+button:active,
+button:focus,
+{
+    outline: none;
+}
+
+button.color-orientation-4 {
+    border: solid 2px var(--orientation-4);
+}
+
+button.color-orientation-3 {
+    border: solid 2px var(--orientation-3);
+}
+
+button.color-neworld {
+    border: solid 2px var(--neworld);
+}
+
+button.color-neworld-junior {
+    border: solid 2px var(--neworld);
+}
+
+button.color-nextgen {
+    border: solid 2px var(--nextgen);
+}
+
+button.color-writing {
+    border: solid 2px var(--writing);
+}
+button.color-coding-42 {
+    border: solid 2px var(--coding-42);
+}
+
+.color-orientation-4,
+.color-orientation-4:hover,
+.color-orientation-4:active,
+.color-orientation-4:focus,
+.color-orientation-4:visited {
+    color: var(--orientation-4);
+}
+
+.color-orientation-3,
+.color-orientation-3:hover,
+.color-orientation-3:active,
+.color-orientation-3:focus,
+.color-orientation-3:visited {
+    color: var(--orientation-3);
+}
+
+.color-neworld,
+.color-neworld:hover,
+.color-neworld:active,
+.color-neworld:focus,
+.color-neworld:visited {
+    color: var(--neworld);
+}
+
+.color-nextgen,
+.color-nextgen:hover,
+.color-nextgen:active,
+.color-nextgen:focus,
+.color-nextgen:visited {
+    color: var(--nextgen);
+}
+
+.color-neworld-junior,
+.color-neworld-junior:hover,
+.color-neworld-junior:active,
+.color-neworld-junior:focus,
+.color-neworld-junior:visited {
+    color: var(--neworld);
+}
+
+.color-writing,
+.color-writing:hover,
+.color-writing:active,
+.color-writing:focus,
+.color-writing:visited {
+    color: var(--writing);
+}
+.color-coding-42,
+.color-coding-42:hover,
+.color-coding-42:active,
+.color-coding-42:focus,
+.color-coding-42:visited {
+    color: var(--coding-42);
+}
+
+.white {
+    color: #fff;
+}
+
+.blue-luiss {
+    color: #003A70;
+}
+
+.blue-political,
+a.blue-political:hover,
+a.blue-political:active,
+a.blu-political:focus,
+a.blu-political:visited {
+    color: #016297;
+}
+
+.orange-writing,
+a.orange-writing:hover,
+a.orange-writing:active,
+a.orange-writing:focus,
+a.orange-writing:visited {
+    color: #E77825;
+}
+
+.pink-orientation,
+a.pink-orientation:hover,
+a.pink-orientation:active,
+a.pink-orientation:focus,
+a.pink-orientation:visited {
+    color: #D32139;
+}
+
+.green-neworld,
+a.green-neworld:hover,
+a.green-neworld:active,
+a.green-neworld:focus,
+a.green-neworld:visited {
+    color: #007773;
+}
+
+.green-marketing,
+a.green-marketing:hover,
+a.green-marketing:active,
+a.green-marketing:focus,
+a.green-marketing:visited {
+    color: #00B1A9;
+}
+
+.green-legal,
+a.green-legal:hover,
+a.green-legal:active,
+a.green-legal:focus,
+a.green-legal:visited {
+    color: #64A845;
+}
+
+.red-international,
+a.red-international:hover,
+a.red-international:active,
+a.red-international:focus,
+a.red-international:visited {
+    color: #9E082B;
+}
+
+.purple-data,
+a.purple-data:hover,
+a.purple-data:active,
+a.purple-data:focus,
+a.purple-data:visited {
+    color: #8B4098;
+}
+
+.blue-cyber,
+a.blue-cyber:hover,
+a.blue-cyber:active,
+a.blue-cyber:focus,
+a.blue-cyber:visited {
+    color: #1E76BD;
+}
+
+.gold-comics,
+a.gold-comics:hover,
+a.gold-comics:active,
+a.gold-comics:focus,
+a.gold-comics:visited {
+    color: #CB8B2A;
+}
+
+a.red-news,
+.red-news,
+a.red-news:hover,
+a.red-news:active,
+a.red-news:focus,
+a.red-news:visited {
+    color: #e7234e;
+}
+
+
+/* Font Icon */
+
+.fa-exclamation-circle {
+    width: 48px;
+    height: 48px;
+    font-size: 48px;
+    font-weight: 300;
+    color: #e7234e;
+    padding-left: 0;
+}
+
+
+/* BACKGROUND COLORS */
+
+.white-bg {
+    background-color: #fff;
+}
+
+.blue-luiss-bg {
+    background-color: #003A70;
+}
+
+.blue-political-bg {
+    background-color: #016297;
+}
+
+.orange-writing-bg {
+    background-color: #E77825;
+}
+
+.pink-orientation-bg {
+    background-color: #D32139;
+}
+
+.green-neworld-bg {
+    background-color: #007773;
+}
+
+.green-marketing-bg {
+    background-color: #00B1A9;
+}
+
+.green-legal-bg {
+    background-color: #64A845;
+}
+
+.red-international-bg {
+    background-color: #9E082B;
+}
+
+.purple-data-bg {
+    background-color: #8B4098;
+}
+
+.blue-cyber-bg {
+    background-color: #1E76BD;
+}
+
+.gold-comics-bg {
+    background-color: #CB8B2A;
+}
+
+.fourth-section {
+    background-color: #f8f8f8;
+}
+
+
+/* BOX */
+
+.header-stripe {
+    height: 48px;
+    width: 100%;
+    background-size: contain;
+    background-repeat: repeat-x;
+}
+
+.political-stripe {
+    background-image: url('../imgs/elements/pattern-political.png');
+}
+
+.writing-stripe {
+    background-image: url('../imgs/elements/pattern-writing.png');
+}
+
+.orientation-stripe {
+    background-image: url('../imgs/elements/pattern-orientation.png');
+}
+
+.neworld-stripe {
+    background-image: url('../imgs/elements/pattern-neworld.png');
+}
+
+.marketing-stripe {
+    background-image: url('../imgs/elements/pattern-marketing.png');
+}
+
+.legal-stripe {
+    background-image: url('../imgs/elements/pattern-legal.png');
+}
+
+.international-stripe {
+    background-image: url('../imgs/elements/pattern-international.png');
+}
+
+.data-science-stripe {
+    background-image: url('../imgs/elements/pattern-data-science.png');
+}
+
+.cyber-stripe {
+    background-image: url('../imgs/elements/pattern-cyber.png');
+}
+
+.comics-stripe {
+    background-image: url('../imgs/elements/pattern-comics.png');
+}
+
+.general-stripe {
+    background-image: url('../imgs/elements/pattern-color.png?v=2');
+}
+
+
+/* 2020 */
+
+.writing-stripe {
+    background-image: url('../imgs/elements/pattern-writing.png');
+}
+
+.neworld-stripe {
+    background-image: url('../imgs/elements/pattern-neworld.png');
+}
+
+.nextgen-stripe {
+    background-image: url('../imgs/elements/pattern-nextgeneration.png');
+}
+
+.orientation-3-stripe {
+    background-image: url('../imgs/elements/pattern-orientation3.png');
+}
+
+.orientation-4-stripe {
+    background-image: url('../imgs/elements/pattern-orientation4.png');
+}
+
+#summer-schools-logo {
+    background-image: url('../imgs/elements/logo-luiss-summer-schools.png?v=2');
+    height: 30px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    color: transparent !important;
+    cursor: pointer;
+}
+
+#luiss-logo {
+    background-image: url('../imgs/elements/logo-luiss-blue.png');
+    height: 40px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    color: transparent !important;
+    background-position: right;
+}
+
+#luiss-logo-white {
+    background-image: url('../imgs/elements/logo-luiss-white.png');
+    height: 40px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    color: transparent !important;
+    background-position: right;
+}
+
+
+/* TYPOGRAPHY */
+
+strong,
+b {
+    font-family: 'LuissSans', Arial, helvetica, sans-serif;
+    font-weight: bold;
+    font-style: normal;
+}
+
+em,
+i {
+    font-family: 'LuissSans', Arial, helvetica, sans-serif;
+    font-weight: normal;
+    font-style: italic;
+}
+
+
+/* Titolo sito */
+
+h1 {
+    font-family: 'LuissSans', Arial, helvetica, sans-serif;
+    font-size: 56px;
+    color: #003A70;
+    letter-spacing: 0;
+    font-weight: bold;
+    font-style: normal;
+}
+
+
+/* Titolo su intro */
+
+h1.hp {
+    font-family: 'LuissSerif', Georgia, 'Times new Roman', serif;
+    font-size: 64px;
+    letter-spacing: 0;
+    line-height: 64px;
+    font-weight: bold;
+    font-style: normal;
+}
+
+
+/* Titolo pagina */
+
+h1.page {
+    font-family: 'LuissSans', Arial, helvetica, sans-serif;
+    font-size: 72px;
+    letter-spacing: 0;
+    line-height: 72px;
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+/* Titolo sezione hp e pagina */
+
+h2.section {
+    font-family: 'LuissSerif', Georgia, 'Times new Roman', serif;
+    font-size: 56px;
+    letter-spacing: 0;
+    line-height: 72px;
+    font-weight: bold;
+    font-style: normal;
+}
+
+
+/* Titolo school hp */
+
+h3 {font-family: 'LuissSans', Arial, helvetica, sans-serif;
+font-weight: 500;}
+
+h3.school {
+    font-family: 'LuissSans', Arial, helvetica, sans-serif;
+    font-size: 48px;
+    letter-spacing: 1px;
+    line-height: 56px;
+    font-weight: normal;
+    font-style: normal;
+}
+
+h3.school:first-of-type {
+    margin-bottom: 0;
+    margin-top: 0.5em;
+}
+
+
+/* Titolo box */
+
+h4 {
+    font-family: 'LuissSans', Arial, helvetica, sans-serif;
+    font-size: 36px;
+    letter-spacing: 0.75px;
+    line-height: 44px;
+    font-weight: bold;
+    font-style: normal;
+}
+
+
+/* Testo box, testo pagina, sottotitolo intro */
+
+p.big {
+    font-family: 'LuissSans', Arial, helvetica, sans-serif;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: 40px;
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+/* Call to action fine sezione e/o box */
+
+a.call,
+a.call:active,
+a.call:visited {
+    font-family: 'LuissSans', Arial, helvetica, sans-serif;
+    font-size: 24px;
+    letter-spacing: 0.5px;
+    line-height: 44px;
+    font-weight: bold;
+    font-style: normal;
+    text-transform: uppercase;
+    text-decoration: none !important;
+}
+
+a.btn {transition: all 0.5s ease;}
+
+td a,
+a:active,
+a:visited,
+a:hover {
+    text-decoration: none;
+    font-weight: 500;    
+}
+th,
+td,
+tr {
+    padding: 4px;
+    border-bottom: 1px solid;
+}
+
+th,
+td {
+    min-width: 7rem;
+}
+
+a,
+a:active,
+a:visited,
+a:hover {
+    text-decoration: underline;
+    color: #003A70;
+}
+
+footer a:hover,
+footer a:active,
+footer a:visited {
+    color: #fff !important;
+    text-decoration: none;
+}
+
+.menu a {
+    text-decoration: none;
+    border-bottom: solid 1px #003A70;
+}
+
+.blue-luiss-border {
+    border: solid 2px #003A70;
+}
+
+.blue-luiss-border-bottom {
+    border-bottom: solid 2px #003A70;
+}
+
+.blue-luiss-border-y {
+    border-top: solid 1px #003A70;
+    border-bottom: solid 1px #003A70;
+}
+
+.red-news-border {
+    border: solid 2px #e7234e;
+}
+
+
+/* Testo box scuole in hp, testo tabelle, voci menù */
+
+p.small {
+    font-family: 'LuissSans', Arial, helvetica, sans-serif;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: 32px;
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+/* Testo footer */
+
+p.x-small {
+    font-family: 'LuissSans', Arial, helvetica, sans-serif;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 24px;
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+/* Call footer */
+
+a.call-small,
+a.call-small:active,
+a.call-small:visited {
+    font-family: ''LuissSans', Arial, helvetica, sans-serif', Arial, helvetica, sans-serif;
+    font-size: 18px;
+    letter-spacing: 0.4px;
+    line-height: 28px;
+    font-weight: bold;
+    font-style: normal;
+}
+
+
+/* Pulsante */
+
+button {
+    font-family: 'LuissSans', Arial, helvetica, sans-serif;
+    font-size: 24px;
+    letter-spacing: 0;
+    text-align: center;
+    line-height: 44px;
+    padding: 10px 40px;
+    font-weight: bold;
+    font-style: normal;
+    text-transform: uppercase;
+}
+
+
+/* Tabella */
+
+table {
+    width: 100%;
+    border: 0px;
+    background-color: #fff;
+    margin: 2rem 0;
+}
+
+td {
+    border-top: 1px solid #003A70;
+    min-height: 90px;
+    padding: 10px 0px;
+    vertical-align: top;
+}
+
+td.sx {
+    border-right: 10px solid #fff;
+    width: 35%;
+}
+
+#intro {
+    background-image: url('../imgs/home-page/summer-school-home.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: auto;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+
+#intro button {
+    background-color: transparent;
+    color: #fff;
+}
+
+#intro button p::after {
+    font-family: "Font Awesome 5 Pro";
+    font-weight: 400;
+    content: "\f061";
+}
+
+.first-section .container,
+.second-section .container {
+    border-bottom: solid 1px #003A70;
+}
+
+
+/* NEWS */
+
+#news {
+    font-family: 'LuissSans', Arial, helvetica, sans-serif;
+}
+
+#news .photo-news1 {
+    background-image: url('../imgs/schools/summer-school-orientation.jpg')
+}
+
+#news .min-height>p:first-child {
+    font-size: 20px;
+}
+
+#news .col-md-4:not(:last-child),
+.third-section .col-lg-3:not(:last-child),
+#news .col-sm-6:not(:last-child) {
+    border-right: 1px solid #003A70;
+}
+
+
+/* FAQ */
+
+.faq .card-header {
+    padding: 0rem .40rem;
+    font-family: 'LuissSerif', Arial, helvetica, sans-serif;
+    border-bottom: 1px solid #003A70;
+    background: #fff;
+    padding-top: 18px;
+}
+
+.faq .card-body {
+    font-family: 'LuissSans', Arial, helvetica, sans-serif;
+}
+
+.faq .card {
+    border: 1px solid #003a70;
+    border-radius: 0;
+}
+
+.faq button.btn {
+    text-decoration: none;
+    color: #003A70;
+    text-align: left;
+    width: 100%;
+}
+
+.faq button.btn:hover {
+    text-decoration: none;
+    font-weight: normal;
+    cursor: pointer;
+}
+
+.faq button h5 {
+    font-weight: bold;
+}
+
+#accordion .card-header button:before {
+    float: right !important;
+    font-family: "Font Awesome 5 Pro";
+    content: "\f068";
+    float: right;
+}
+
+#accordion .card-header button.collapsed:before {
+    float: right !important;
+    font-family: "Font Awesome 5 Pro";
+    content: "\f067";
+}
+
+footer a {
+    display: block;
+    color: #fff;
+    text-transform: uppercase;
+    font-family: 'LuissSans', Arial, helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+footer .row {
+    border-bottom: solid 1px #fff;
+}
+
+.first-section .img,
+.third-section .img {
+    background-size: cover;
+    height: 10em;
+    background-position: center center;
+    margin-bottom: 1em;
+}
+
+.first-section h4 {
+    min-height: 3em;
+}
+
+.menu button {
+    background-color: transparent;
+    border: none;
+    color: #003A70;
+}
+
+#navigazione a {
+    display: block;
+    font-family: 'LuissSans', Arial, helvetica, sans-serif;
+    font-style: normal;
+    padding-top: 0.35em;
+    padding-bottom: 0.25em;
+}
+
+.cs4-form {
+    width: auto;
+    height: auto;
+    background-color: transparent;
+    border: none;
+    padding-left: 0;
+}
+
+.cs4-form iframe {
+    width: 100%;
+    min-height: 200px;
+    border: none;
+}
+
+
+/*
+
+#navigazione .col-12 a:not(:nth-child(5)){
+    border-bottom: solid 1px #003A70;
+}
+*/
+
+.course button {
+    background-color: transparent;
+}
+
+.container-video {
+    position: relative;
+    width: 100%;
+    height: 0;
+    padding-bottom: 56.25%;
+}
+
+.video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+header .row.mb-4 {
+    border-bottom: solid 1px #003A70;
+    padding-bottom: 0.5em;
+}
+
+section .container {
+    padding-bottom: 2em;
+    padding-top: 2em;
+}
+
+@media screen and (min-width:768px) {
+    .menu button {
+        float: right;
+    }
+    .br {
+        border-right: 1px solid #003A70;
+    }
+    .first-section .col-md-4:not(:last-child),
+    .second-section .col-md-6:first-child,
+    .third-section .col-md-3:not(:last-child) {
+        border-right: solid 1px #003A70;
+    }
+    .second-section .min-height {
+        min-height: 14em;
+    }
+    .third-section .min-height {
+        min-height: 20em;
+    }
+    .first-section .min-height {
+        min-height: 25em;
+    }
+}
+
+.photo-page {
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 400px;
+    min-height: 400px;    
+}
+
+.photo-orientation {
+    background-image: url('../imgs/schools/summer-school-orientation.jpg');
+    background-image: url('../imgs/schools/summer-school-orientation.jpg');
+}
+
+.photo-legal {
+    background-image: url('../imgs/schools/summer-school-legal.jpg');
+}
+
+.photo-marketing {
+    background-image: url('../imgs/schools/summer-school-marketing.jpg');
+}
+
+.photo-cyber {
+    background-image: url('../imgs/schools/summer-school-cyber.jpg');
+}
+
+.photo-neworld {
+    background-image: url('../imgs/schools/summer-school-neworld.jpg');
+}
+
+.photo-political-science {
+    background-image: url('../imgs/schools/summer-school-political-science.jpg');
+}
+
+.photo-data-science {
+    background-image: url('../imgs/schools/summer-school-data-science.jpg');
+}
+
+.photo-comics {
+    background-image: url('../imgs/schools/summer-school-comics.jpg');
+}
+
+.photo-writing {
+    background-image: url('../imgs/schools/summer-school-writing.jpg');
+}
+
+.photo-writing {
+    background-image: url('../imgs/schools/summer-school-writing.jpg');
+}
+
+.photo-coding-42 {
+    background-image: url('../imgs/schools/summer-school-42-roma.jpg');
+    display:block;
+}
+
+.video-image {
+    background-position: center center;
+    background-size: cover;
+    height: 12.5rem;
+    background-repeat: no-repeat;
+}
+
+html {
+    font-size: 24px;
+}
+
+.table-alert {
+    display: none;
+}
+
+.only-desk {
+    display: block;
+}
+
+@media screen and (max-width:767px) {
+    .menu-icon::before {
+        content: 'Prova'
+    }
+    .table-alert {
+        display: block;
+    }
+    .only-desk {
+        display: none;
+    }
+    #summer-schools-logo {
+        margin-top: 1em;
+    }
+    header .row:first-of-type {
+        margin-bottom: 0.5em !important;
+    }
+    .header-stripe {
+        height: 30px;
+    }
+    footer a {
+        margin-bottom: 0.5em;
+        margin-top: 0.5em;
+    }
+    #luiss-logo-white {
+        background-position: left;
+        margin-top: 2em;
+        margin-bottom: 1em;
+        margin-left: 15px;
+    }
+    .header-stripe {
+        margin-bottom: 0 !important;
+    }
+    #luiss-logo {
+        display: none;
+    }
+    h1.hp {
+        font-size: 48px;
+        line-height: 48px;
+    }
+    h2.section {
+        font-size: 48px;
+        line-height: 48px;
+    }
+    p.big {
+        font-size: 24px;
+        line-height: 32px;
+    }
+    h1.page {
+        font-size: 48px;
+        line-height: 56px;
+    }
+    p.small {
+        font-size: 18px;
+        line-height: 28px;
+    }
+}
+
+.fal,
+.fas,
+.far {
+    padding-left: 5px;
+}
+
+
+}
